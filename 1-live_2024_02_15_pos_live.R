@@ -201,7 +201,7 @@ exp <- '165704 OU 165.704'
 
 # Escolher uma pasta para receber os resultados
 
-pasta <- "data-raw/exemplo_hc_coletivo_live"
+pasta <- "data-raw/exemplo_hc_coletivo"
 
 ###############################################################################
 # Vou criar essa pasta no meu computador para salvar os resultados:
