@@ -1,0 +1,12 @@
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+# pucprjurimetria_2024
+
+Repositório para a disciplina Extração de Dados: como obter o melhor dos
+dados no curso “Jurimetria, Legal Hack e Inteligência Artificial” da
+PUC-PR, com início em 02/02/2024.
+
+Aqui serão disponibilizados os materiais utilizados na live de estudo de
+caso e na live de encerramento, bem como eventuais scripts auxiliares
+para sanar dúvidas que alunas e alunos possam ter ao longo do curso.
